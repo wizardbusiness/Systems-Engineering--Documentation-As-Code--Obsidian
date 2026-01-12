@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "headers"
+  ]
+}

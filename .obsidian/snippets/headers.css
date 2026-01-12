@@ -1,0 +1,25 @@
+
+.inline-title {
+    color: red;
+}
+
+.HyperMD-header-2, .HyperMD-header-2 > .cm-em{
+    color: orange;
+}
+
+.HyperMD-header-3, .HyperMD-header-3 > .cm-em{
+    color: #6da800;
+}
+
+.markdown-rendered .internal-link {
+    background-color: color-mix(in srgb, var(--code-background), transparent 50%);
+    padding: 0.15em 0.15em;
+    border-radius: var(--radius-s); */
+    font-size: 0.9em;
+    font-weight: 500;
+    /* color: color-mix(in srgb, currentColor 75%, rgb(213, 225, 225) 25%); */
+    color: currentColor
+}
+
+
+

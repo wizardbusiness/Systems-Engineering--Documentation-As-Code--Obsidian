@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "df186199e699343b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c37cb90c7aac9da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5fec6cd10d810e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansible/Installing Ansible.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Installing Ansible"
+            }
+          },
+          {
+            "id": "ff9bf9f99dc398f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Resources/Static Resources/Icons/Code/Artist Attribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artist Attribution"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7b409a1b4101127",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed96b64f5b8431f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c89c03c84a25feec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "04f7848baa1f3fd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "database",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "833117dcf928f2d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 593.5
+  },
+  "right": {
+    "id": "c9b9779999fb594b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bae74825f3e1386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1461809658f3bea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows/Python/Install Python From CLI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Install Python From CLI"
+            }
+          },
+          {
+            "id": "9ecdfb8183218292",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Proxmox/QM Create - NEW VM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from QM Create - NEW VM"
+            }
+          },
+          {
+            "id": "410b87887378a9f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f4014042b6a877c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a548ec3365765b33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proxmox/QM Create - NEW VM.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of QM Create - NEW VM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c5fec6cd10d810e2",
+  "lastOpenFiles": [
+    "Ansible/Creating an Ansible Playbook.md",
+    "Ansible/_Ansible Glossary.md",
+    "Ansible/Installing Ansible.md",
+    "1_Glossary/Shared Glossary.md",
+    "YAML/YAML Example.md",
+    "0_Resources/Static Resources/Screenshots/SQL Server 2025/Install - Windows Server Core/SQL-SERVER-Bootstrapper-GUI.png",
+    "Pasted image 20251229220454.png",
+    "Windows/WSL (Windows Subsystem for Linux)/Install WSL Manually - Windows Server Core.md",
+    "0_Resources/Static Resources/Icons/Code/Artist Attribution.md",
+    "YAML",
+    "Ansible/Untitled.md",
+    "Network/Unifi/UXG - Lite.md",
+    "1_Glossary",
+    "Ansible/Glossary",
+    "0_Resources/Templates/Technical Documentation/Glossary/Glossary Entry.md",
+    "0_Resources/Templates/Technical Documentation/Doc Snippets/Intro Snippets/Use When (One-Liner).md",
+    "0_Resources/Templates/Technical Documentation/Doc Snippets/Intro Snippets/Use When (Bullets).md",
+    "0_Resources/Templates/Technical Documentation/Doc Snippets/Intro Snippets/Prerequisites (Standard).md",
+    "0_Resources/Templates/Technical Documentation/Doc Snippets/Intro Snippets/Prerequisites (ANDOR).md",
+    "0_Resources/Templates/Technical Documentation/Doc Snippets/Intro Snippets/Additional Resources.md",
+    "0_Resources/Templates/Technical Documentation/Doc Section Templates/Intro Section Base.md",
+    "0_Resources/Templates/Technical Documentation/Doc Section Templates/Getting Started.md",
+    "0_Resources/Templates/Technical Documentation/Doc Section Templates/Instructional.md",
+    "0_Resources/Static Resources/Icons/Code/bash.jpg",
+    "Systems Engineering Resume/Documentation Architecture.md",
+    "Systems Engineering Resume",
+    "Technical Glossary/Windows Server Glossary.md",
+    "0_Resources/Static Resources/Icons/Code/i-made-a-boot-into-desktop-mode-widget-v0-p6t8wjad709g1.webp",
+    "Technical Glossary/Web Term Glossary.md",
+    "Linux/Arch/CachyOS/Install CachyOS.md",
+    "Linux/Tools/Grub.md",
+    "Network/Mokerlink 2G05210GSM Switch/CLI CheatSheet.md",
+    "Linux/Tools/Apollo-Sunshine.md",
+    "0_Resources/Static Resources/Icons/Image_Resources/gallery.png",
+    "0_Resources/Static Resources/Icons/Code/javascript-chroma.png",
+    "0_Resources/Static Resources/Icons/Code/javascript-toasty.png",
+    "0_Resources/Static Resources/Icons/Image_Resources/jpg-file.png",
+    "0_Resources/Static Resources/Icons/Code/powershell.png",
+    "Ansible/Playbooks",
+    "Linux/Tools/Arch-Specific",
+    "Linux/Arch/CachyOS",
+    "Linux/GRUB",
+    "0_Resources/Templates/Technical Documentation/Glossary",
+    "Linux/Arch/Snapper",
+    "0_Resources/Static Resources/Icons/Image_Resources/tripod.png",
+    "Windows/Windows Server/Windows Server Core 2022/Setup New Domain Controller/Untitled.canvas"
+  ]
+}
