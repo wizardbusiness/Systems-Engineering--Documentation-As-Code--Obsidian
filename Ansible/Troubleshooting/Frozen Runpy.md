@@ -1,4 +1,4 @@
-
+##### ***Error Code: [WinError 1]***
 ##### ***Error Screenshot***
 
 ```ad-error 
@@ -12,7 +12,6 @@
 - Ansible on windows requires WSL
 #### Fix 
 - install WSL 
-
 #### Additional Resources
 - [Ansible Docs - Control Node Requirements](https://docs.ansible.com/projects/ansible/latest/installation_guide/intro_installation.html#id8)) 
 - [Stack Overflow Thread - Install Ansible Windows Machine](https://stackoverflow.com/questions/74701206/install-ansible-windows-machine)
