@@ -80,7 +80,8 @@ title: **Host group example**
 ```
 
 ```ad-question
-**Q: Does the User refer to an actual person who will need to authenticate on Ansibles behalf?**
+title: Disambiguation
+**Q: Does 'User' refer to an actual person who will need to authenticate on Ansibles behalf?**
 **A: No, it refers purely to a logical user with permissions within the target host operating system**
 ```
 
