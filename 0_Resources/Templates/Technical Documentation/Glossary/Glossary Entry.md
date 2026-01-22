@@ -1,5 +1,5 @@
-##### **` Entry `**
-
-  ***Definition*** 
-
+### Entry
+ 
+***Definition ***
 ****
+
