@@ -1,4 +1,4 @@
-#### 1. Do something
+#### Do something
 ```ad-bash
 collapse: true
 	

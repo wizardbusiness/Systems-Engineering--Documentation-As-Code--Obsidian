@@ -1,4 +1,4 @@
-#### 1. Do thing
+#### Do thing
 ```ad-ad-py
 collapse: true
 ```

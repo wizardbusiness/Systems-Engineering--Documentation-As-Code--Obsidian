@@ -26,13 +26,12 @@
 #### How it works
 ##### Simple explanation of the key concepts and capabilities and how they fit together.
 ***
-
-
 ### Important concepts you'll encounter using <subject\>
 #### Concept A
 
 ##### Explanation
 
+##### Example
 ```ad-code
 title: `tool` **Example**
 ```
@@ -48,6 +47,8 @@ title: `tool` **Example**
 #### Concept B
 
 ##### Explanation
+
+##### Example
 
 ```ad-code
 title: `tool` **Example**

@@ -1,4 +1,4 @@
-#### 1. Do Thing
+#### Do Thing
 ```ad-code
 title: `code`
 collapse:true
