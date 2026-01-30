@@ -25,14 +25,12 @@
             "id": "24c89f69bb6129dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Proxmox/Add Virtio Network Adapter Drivers To A Windows VM.md",
-                "mode": "source",
-                "source": false
+                "file": "Proxmox/static/image.png"
               },
-              "icon": "lucide-file",
-              "title": "Add Virtio Network Adapter Drivers To A Windows VM"
+              "icon": "lucide-image",
+              "title": "image"
             }
           },
           {
@@ -228,6 +226,8 @@
   },
   "active": "24c89f69bb6129dc",
   "lastOpenFiles": [
+    "Networking/Default Route.md",
+    "Proxmox/Add Virtio Network Adapter Drivers To A Windows VM.md",
     "Ansible/Playbooks/How to Create Ansible Playbooks.md",
     "0_Resources/Templates/Technical Documentation/Doc Templates/Troubleshooting/Error Doc Template.md",
     "Ansible/Troubleshooting/Frozen Runpy - WinError 1.md",
@@ -259,7 +259,6 @@
     "Ansible/Ansible on Windows/Add Windows Host to an Ansible Inventory.md",
     "_Technical_Posting",
     "Ansible/Playbooks/Windows Server 2022 Core.md",
-    "0_Resources/Templates/Technical Documentation/Doc Templates/About Doc Template.md",
     "0_Resources/Templates/Technical Documentation/Doc Templates/Instructions Templates/Instruction Steps",
     "0_Resources/Templates/Technical Documentation/Doc Templates/Header Templates/Header Snippets",
     "0_Resources/Templates/Technical Documentation/Doc Templates/Header Templates",
