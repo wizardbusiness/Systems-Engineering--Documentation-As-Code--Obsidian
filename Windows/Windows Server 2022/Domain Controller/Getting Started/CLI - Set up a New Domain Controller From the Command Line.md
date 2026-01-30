@@ -12,14 +12,9 @@
 
 ##### - Domain Controller manages the identities and group policy of devices and users on a network. 
 
-#### 1.  
+#### 1. Install Windows Core  
 
-```ad-pscode
-collapse: true
-	
-```
-
-#### 2.  
+#### 2.  Add 
 
 ```ad-pscode
 collapse: true
